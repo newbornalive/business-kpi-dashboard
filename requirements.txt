@@ -1,0 +1,1 @@
+pandas  numpy  dash  plotly  sqlalchemy  flask  seaborn  matplotlib 
